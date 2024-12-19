@@ -1,1 +1,1 @@
-let API = "";
+let API = "Weather Application API";
